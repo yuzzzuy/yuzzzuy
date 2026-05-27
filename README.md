@@ -1,7 +1,5 @@
 ## GitHub Stats
 
-![GitHub Stats](./profile/stats.svg)
+![GitHub Stats](./profile/stats.svg) ![Top Languages](./profile/top-langs.svg)
 
-## Top Languages
 
-![Top Languages](./profile/top-langs.svg)
