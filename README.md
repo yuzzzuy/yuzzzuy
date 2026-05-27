@@ -1,7 +1,7 @@
-## GitHub Activity
+## GitHub Stats
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=yuzzzuy&theme=github-compact)
+![GitHub Stats](./profile/stats.svg)
 
-## GitHub Streak
+## Top Languages
 
-![GitHub Streak](https://streak-stats.demolab.com?user=yuzzzuy&theme=default)
+![Top Languages](./profile/top-langs.svg)
