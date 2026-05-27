@@ -7,7 +7,3 @@
 ## Contribution Graph
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=yuzzzuy&theme=github-compact)
-
-## Streak
-
-![GitHub Streak](https://streak-stats.demolab.com?user=yuzzzuy)
